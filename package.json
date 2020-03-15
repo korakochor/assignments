@@ -1,0 +1,24 @@
+{
+  "name": "assignments",
+  "version": "1.0.0",
+  "description": "UCI Server Side",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r esm test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korakochor/assignments.git"
+  },
+  "author": "Kora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korakochor/assignments/issues"
+  },
+  "homepage": "https://github.com/korakochor/assignments#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "esm": "^3.2.25",
+    "mocha": "^7.0.0"
+  }
+}
